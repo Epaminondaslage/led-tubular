@@ -27,7 +27,6 @@ Ao final desta atividade, o aluno será capaz de:
 ##  Introdução
 
 As lâmpadas LED tubulares substituem lâmpadas fluorescentes tradicionais, proporcionando maior eficiência energética, maior vida útil e menor manutenção.  
-Ao instalar LEDs tubulares, o **reator deve ser removido** e a luminária deve ser adaptada para receber alimentação direta.
 
 Ela  integra em sua estrutura um driver eletrônico interno, responsável pelo condicionamento e controle da energia elétrica, dispensando assim o uso de reatores ou outros dispositivos auxiliares externos. Sua instalação resulta em um sistema mais eficiente, compacto e confiável.
 
@@ -54,7 +53,16 @@ Para esta montagem, utilizaremos **alimentação em uma ponta**, o tipo mais com
 
 ### Readequação da Luminária (Bypass do Reator)
 
-Quando se substitui uma lâmpada fluorescente por LED tubular, é necessário **eliminar o reator** e **reutilizar os suportes (soquetes G13)** da luminária.
+Na substituição de lâmpadas fluorescentes por **lâmpadas LED tubulares**, torna-se indispensável a realização do **bypass do reator**, que consiste na **remoção elétrica total do reator da luminária**. Esse componente, utilizado exclusivamente em lâmpadas fluorescentes, é **incompatível com o funcionamento das lâmpadas LED** e, caso permaneça no circuito, pode provocar falhas, aquecimento excessivo ou danos permanentes ao equipamento.
+
+Após a eliminação do reator, os **suportes (soquetes G13)** existentes na luminária podem ser **reaproveitados**, desde que estejam em boas condições mecânicas e elétricas. A alimentação elétrica deve ser realizada **diretamente nos terminais indicados pelo fabricante da lâmpada LED**, respeitando o tipo de ligação exigido (normalmente ligação de um lado – fase e neutro no mesmo extremo).
+
+Essa readequação proporciona:
+
+- Maior eficiência energética  
+- Redução de perdas elétricas  
+- Aumento da vida útil do conjunto  
+- Maior segurança operacional  
 
 **Passos gerais:**
 
@@ -74,8 +82,7 @@ Quando se substitui uma lâmpada fluorescente por LED tubular, é necessário **
 
 ### Funcionamento da Lâmpada LED Tubular
 
-A lâmpada LED tubular possui driver interno e não necessita de dispositivos auxiliares.  
-O circuito é simples e seguro, desde que respeitado:
+A lâmpada LED tubular possui driver interno e não necessita de dispositivos auxiliares.  O circuito é simples e seguro, desde que respeitado:
 
 - Polaridade dos terminais  
 - Tensões nominais  
