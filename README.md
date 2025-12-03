@@ -96,15 +96,6 @@ O circuito é simples e seguro, desde que respeitado:
 | Ligação | Complexa | Direta |
 | Durabilidade | Média | Alta |
 
----
-
-### Distribuição entre boxes (para fins didáticos)
-
-- **Box 1:** Luminária com LED tubular – ponto 1  
-- **Box 2:** Luminária com LED tubular – ponto 2  
-- **Box 3:** Luminária com LED tubular – ponto 3  
-- **Box 4:** Luminária com LED tubular – ponto 4  
-
 
 ---
 
@@ -117,6 +108,13 @@ Cada box possui quatro superfícies principais:
 - Teto :luminária para lampada tubular
 
 Nesta aula, cada teto receberá **uma luminária tubular LED** devidamente adaptada e um interruptor de suas sessões para comandar as lâmpadas.
+
+### Distribuição das montagens entre boxes (para fins didáticos)
+
+- **Box 1:** Luminária com LED tubular 
+- **Box 2:** Luminária com LED tubular 
+- **Box 3:** Luminária com LED tubular 
+- **Box 4:** Luminária com LED tubular 
 
 ---
 
