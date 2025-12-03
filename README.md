@@ -96,10 +96,9 @@ O circuito é simples e seguro, desde que respeitado:
 
 Cada box possui quatro superfícies principais:
 
-- Parede de fundo (com QDLF)  
-- Parede esquerda  
-- Parede direita  
-- Teto  
+- Parede de fundo : QDLF  
+- Parede esquerda  : Interuptor de duas sessoões
+- Teto :luminária para lampada tubular
 
 Nesta aula, cada teto receberá **uma luminária tubular LED** devidamente adaptada e um interruptor de suas sessões para comandar as lâmpadas.
 
