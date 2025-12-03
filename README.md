@@ -48,7 +48,7 @@ Existem dois tipos mais comuns de LED tubular:
 - **Alimentação em uma ponta** → fase e neutro no mesmo lado.  
 - **Alimentação em duas pontas** → fase de um lado e neutro do outro.
 
-Para este guia, utilizaremos **alimentação em uma ponta**, o tipo mais comum nos laboratórios do CEFET-MG.
+Para esta montagem, utilizaremos **alimentação em uma ponta**, o tipo mais comum nos laboratórios do CEFET-MG.
 
 ---
 
@@ -81,6 +81,8 @@ O circuito é simples e seguro, desde que respeitado:
 - Tensões nominais  
 - Aterramento da carcaça metálica da luminária  
 - Fixação mecânica adequada
+
+<img src="img/caracteristicas.jpg" alt="led" width="40%">
 
 ---
 
