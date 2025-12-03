@@ -175,7 +175,7 @@ O aluno deve produzir o desenho simbólico indicando:
 - Distribuir ligações em paralelo conforme projeto  
 
 ⚠️ **Importante:**  
-Cada luminária tubular deve receber **fase e neutro em um soquete**.
+Cada luminária tubular deve receber **Retorno de fase do interruptor e neutro em um soquete**.
 
 ---
 
