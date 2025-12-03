@@ -29,6 +29,8 @@ Ao final desta atividade, o aluno será capaz de:
 As lâmpadas LED tubulares substituem lâmpadas fluorescentes tradicionais, proporcionando maior eficiência energética, maior vida útil e menor manutenção.  
 Ao instalar LEDs tubulares, o **reator deve ser removido** e a luminária deve ser adaptada para receber alimentação direta.
 
+<img src="img/lampada-led.jpg" alt="led" width="60%">
+
 Existem dois tipos mais comuns de LED tubular:
 
 - **Alimentação em uma ponta** → fase e neutro no mesmo lado.  
@@ -115,6 +117,8 @@ O aluno deve produzir o desenho simbólico indicando:
 - Caixas de passagem necessárias  
 - Trajeto dos condutores  
 - Origem da alimentação (QDLF)
+
+<img src="img/box-led.jpg" alt="box-led" width="60%">
 
 ### **Elementos obrigatórios**
 
