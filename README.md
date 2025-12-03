@@ -29,6 +29,18 @@ Ao final desta atividade, o aluno será capaz de:
 As lâmpadas LED tubulares substituem lâmpadas fluorescentes tradicionais, proporcionando maior eficiência energética, maior vida útil e menor manutenção.  
 Ao instalar LEDs tubulares, o **reator deve ser removido** e a luminária deve ser adaptada para receber alimentação direta.
 
+Ela  integra em sua estrutura um driver eletrônico interno, responsável pelo condicionamento e controle da energia elétrica, dispensando assim o uso de reatores ou outros dispositivos auxiliares externos. Sua instalação resulta em um sistema mais eficiente, compacto e confiável.
+
+Para garantir o correto funcionamento e a segurança da instalação, devem ser respeitados os seguintes aspectos:
+
+    * Polaridade correta dos terminais (quando aplicável ao modelo)
+    
+    * Tensões nominais de alimentação especificadas pelo fabricante
+    
+    * Aterramento adequado da carcaça metálica da luminária
+    
+    * Fixação mecânica firme e compatível com o ambiente de instalação
+
 <img src="img/led-tubular.jpg" alt="led" width="60%">
 
 Existem dois tipos mais comuns de LED tubular:
