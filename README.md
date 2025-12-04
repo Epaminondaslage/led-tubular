@@ -6,7 +6,7 @@
 ### **Departamento de Engenharia Elétrica - CEFET-MG**  
 ### **Coordenação do Curso de Eletrotécnica**  
 
-### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+### Disciplina: **PLIEP - Prática de Laboratório de Instalações Elétricas Prediais**
 ### Guia de Aula – Instalação de Lâmpadas LED Tubulares em Circuito de Iluminação
 
 ---
